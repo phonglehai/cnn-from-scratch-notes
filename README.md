@@ -14,3 +14,13 @@ A structured learning repository covering CNNs from scratch, including convoluti
 
 - Stanford CS231n – Convolutional Neural Networks for Visual Recognition  
   https://cs231n.stanford.edu/
+## 🧪 Projects
+
+- MNIST-with-Lenet (CNN fundamentals)  
+  https://github.com/phonglehai/MNIST-with-Lenet
+
+- Fashion-MNIST (generalization experiments)  
+  https://github.com/phonglehai/Fashion-MNIST
+
+- SE-ResNet-BrainTumorMRI (attention-based medical imaging)  
+  https://github.com/phonglehai/SE-ResNet-BrainTumorMRI
