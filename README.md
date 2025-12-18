@@ -3,6 +3,14 @@ A structured learning repository covering CNNs from scratch, including convoluti
 
 ---
 
+📚 Books & References
+• Deep Learning – Ian Goodfellow et al.  
+  - Chapter 6: Deep Feedforward Networks  
+  - Chapter 8: Optimization for Training Deep Models  
+  - Chapter 9: Convolutional Networks  
+  - Chapter 7: Regularization for Deep Learning
+
+
 ## 📐 Mathematics Foundations
 
 - MIT 18.065 – Matrix Methods in Data Analysis, Signal Processing, and Machine Learning  
