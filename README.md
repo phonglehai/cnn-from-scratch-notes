@@ -3,13 +3,24 @@ A structured learning repository covering CNNs from scratch, including convoluti
 
 ---
 
-📚 Books & References
 
-• Deep Learning – Ian Goodfellow et al.  
-  - Chapter 6: Deep Feedforward Networks  
-  - Chapter 8: Optimization for Training Deep Models  
-  - Chapter 9: Convolutional Networks  
+
+## 📚 Books & References
+
+- **Deep Learning** – Ian Goodfellow et al.
+  - Chapter 6: Deep Feedforward Networks
   - Chapter 7: Regularization for Deep Learning
+  - Chapter 8: Optimization for Training Deep Models
+  - Chapter 9: Convolutional Networks
+
+- **The Matrix Calculus You Need for Deep Learning** – Terence Parr, Jeremy Howard  
+  *Vector–matrix derivatives, Jacobians, Hessians, and a rigorous foundation of backpropagation used in modern deep learning.*
+
+- **Mathematics for Machine Learning** – Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong  
+  *Core mathematical foundations for ML, including linear algebra, probability theory, and optimization.*
+
+- **Probabilistic AI** – Andreas Krause  
+  *Probabilistic modeling, Bayesian inference, uncertainty estimation, and decision-making, with strong relevance to medical imaging and learning under uncertainty.*
 
 
 ## 📐 Mathematics Foundations
