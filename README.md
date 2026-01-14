@@ -34,7 +34,9 @@ A structured learning repository covering CNNs from scratch, including convoluti
 
 - Stanford CS231n – Convolutional Neural Networks for Visual Recognition  
   https://cs231n.stanford.edu/
-- YouTube Playlist – Deep Learning / CNN Lectures  
+## 🎥 Video Lectures & Playlists
+
+- Deep Learning / CNN (YouTube Playlist)  
   https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
 ## 🧪 Projects
 
